@@ -98,4 +98,5 @@ Performance comparisions of differnet models on the prospective cohort (n=33):
 
 ## Citation
 ```
+He M, Chen Z, Liu S, et al. Deep learning model based on multi-lesion and time series CT images for predicting the benefits from anti-HER2 targeted therapy in stage IV gastric cancer[J]. Insights into Imaging, 2024, 15(1): 59.
 ```
